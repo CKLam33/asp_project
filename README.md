@@ -1,2 +1,1 @@
-# asp_project
-ASP Project - RSS Feed Reader
+# ASP Project - RSS Feed Reader
